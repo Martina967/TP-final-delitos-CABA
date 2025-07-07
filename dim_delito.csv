@@ -1,0 +1,16 @@
+"id_delito","tipo","subtipo","uso_arma","uso_moto"
+1,"Hurto","Hurto total",FALSE,FALSE
+2,"Robo","Robo total",FALSE,FALSE
+3,"Robo","Robo total",TRUE,TRUE
+4,"Hurto","Hurto automotor",FALSE,FALSE
+5,"Robo","Robo total",TRUE,FALSE
+6,"Robo","Robo total",FALSE,TRUE
+7,"Robo","Robo automotor",TRUE,FALSE
+8,"Robo","Robo automotor",FALSE,FALSE
+9,"Vialidad","Lesiones por siniestros viales",FALSE,FALSE
+10,"Homicidios","Homicidios dolosos",FALSE,FALSE
+11,"Homicidios","Femicidios",FALSE,FALSE
+12,"Amenazas","Amenazas",FALSE,FALSE
+13,"Lesiones","Lesiones Dolosas",FALSE,FALSE
+14,"Vialidad","Muertes por siniestros viales",FALSE,FALSE
+15,"Robo","Robo automotor",TRUE,TRUE
